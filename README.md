@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **a bit of everything, knowledge is key and power**
 
-- 😎 Interested in **Technology,Movies & animes**
+- 😎 Interested in **Technology, Movies & animes**
 
 - 📫 How to reach me **lp411301@gmail.com**
 
