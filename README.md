@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️​,I'm Lucas Marques and Welcome to my portfolio 😎</h1>
-<h3 align="center">I am passionate about technology, innovation and big challenging tasks list</h3>
+<h3 align="center">I am passionate about technology, innovation and big challenging tasks </h3>
 
 - I’m currently working as **a Trainee**
 
