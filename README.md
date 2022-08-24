@@ -1,11 +1,11 @@
-<h1 align="center">Hi ✌️​, I'm I'm Lucas Marques and Welcome to my portfolio 😎</h1>
-<h3 align="center">I am passionate about technology, innovation and big challenging tasks on my to do list</h3>
+<h1 align="center">Hi ✌️​,I'm Lucas Marques and Welcome to my portfolio 😎</h1>
+<h3 align="center">I am passionate about technology, innovation and big challenging tasks list</h3>
 
 - I’m currently working as **a Trainee**
 
-- 🚀​ I'm currently working on **my selfdevelopment and social skills**
+- 🚀​ I'm trying to get better in **my selfdevelopment and social skills**
 
-- 🌱 I’m currently learning **a bit of everything, knowledge is key and power**
+- 🌱 I’m currently learning ** javascript , knowledge is key and power**
 
 - 😎 Interested in **Technology, Movies & animes**
 
